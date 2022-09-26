@@ -5,6 +5,7 @@ pink
 orange
 blue
 green
+unicorn
 yellow
 red
 the rainbow as 7 colors 
